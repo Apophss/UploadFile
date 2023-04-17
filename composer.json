@@ -1,0 +1,19 @@
+{
+    "name": "apophss/uploadfile",
+    "description": "Upload handler, fast and easy to use",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eduardo Dias",
+            "email": "duh.d2r3@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Apophss\\UploadFile\\": "src/"
+        }
+    }
+}
